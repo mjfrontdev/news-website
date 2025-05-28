@@ -19,7 +19,7 @@
 ## نصب و راه‌اندازی
 
 ```bash
-git clone [https://github.com/your-username/news-website.git](https://github.com/mjfrontdev/news-website)
+git clone https://github.com/mjfrontdev/news-website/tree/main
 cd news-website
 npm install
 ```
